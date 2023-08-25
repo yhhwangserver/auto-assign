@@ -17,8 +17,3 @@ reviewers:
   - yhhwangserver
 
 # A list of keywords to be skipped the process that add reviewers if pull requests include it
-skipKeywords:
-  - WIP
-  - wip
-  - Release
-  - Revert
